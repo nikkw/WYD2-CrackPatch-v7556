@@ -1,0 +1,5 @@
+QUEST6 NAME Uxmal
+QUEST6 BASE_SPEECH Eu_transporto_os_guerreiros_para_a_pista_de_runas!
+QUEST6 POSITION 3293 1693
+QUEST6 CONDITION-1 SPEECH Level_Inadequado.
+QUEST6 CONDITION-1 LEVEL 1 400

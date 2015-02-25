@@ -1,0 +1,72 @@
+Drop Item Event Settings:
+  evindex 0  evdelete 0  evon 0  evitem 0  evrate 0  evstart 0 0 0 1
+Etc Event Settings:
+  double 0  deadpoint 1  dungeonevent 1  statsapphire 30  battleroyal 0  VS: 0  translevel: 300
+Billing Settings:
+  billmode 0  freeexp 35  charselbill 0  potioncount 10  partybonus 100  guildboard -1
+Item Drop Bonus Settings:
+   100 100 100 100 100 100 100 100   100 100 100 100 100 100 100 100
+   100 100 100 100 100 100 100 100   100 100 100 100 100 100 100 100
+   100 100 100 100 100 100 100 100   100 100 100 100 100 100 100 100
+   100 100 100 100 100 100 100 100   100 100 100 100 100 100 100 100
+Treasure Settings:
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0     0     0  0  0  0  0  0   
+       0                    0                    0                    0                    0    
+Rare Item Drop Settings:
+0    0         0      0    0     0    0     0    0     x   0
+0    0         0      0    0     0    0     0    0     x   0
+0    0         0      0    0     0    0     0    0     x   0
+0    0         0      0    0     0    0     0    0     x   0
+0    0         0      0    0     0    0     0    0     x   0
+0    0         0      0    0     0    0     0    0     x   0
+0    0         0      0    0     0    0     0    0     x   0
+0    0         0      0    0     0    0     0    0     x   0
+rare mode : 0  StopGoldCoin: 0  LocalServer : 0  Stop Quest : 0
+Game Option Settings:
+NonePKServer: 0  GambleServer: 0 KhepraOpen: 1
+ItemDestroy: 10 ItemMaster: 0 EXP_NOT_DOUBLE_ZONE: 0
+USE_GUILDWAR_MANTLE: 0 USE_FREE_GAMBLE: 1  casinoticket: 0
+lottoTicket: 0 maxlevel: 399 createchar: 1
+8thskill: 0 maxlevelticket: 2 eventhour: 19
+duelletterlimit: 0 400
+TownTax: 0 0 0 0 0
+randomquiz: 0 exp:0 coin:0
+itemprice: 0 0 sealofsoul:0
+nightmare: 0 blessmoney: 0
+addcrackerror: 0
+encode 0
+logdemon 192.168.0.7 logdemon
+kingdomfield 0
+ItemDeleteMode 0
+GameBleMoney 0
+CreateHardCharactor 0
