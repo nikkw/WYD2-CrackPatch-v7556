@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="TMSRV">
+      <UniqueIdentifier>{8663b9da-166d-40d6-a40a-f9c4646a7db5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TMSRV.h">
+      <Filter>TMSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="tmpch.h">
+      <Filter>TMSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstantPatch.h">
+      <Filter>TMSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="Naked.h">
+      <Filter>TMSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook.h">
+      <Filter>TMSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>TMSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>TMSRV</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TMSRV.cpp">
+      <Filter>TMSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="tmpch.cpp">
+      <Filter>TMSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="DllMain.cpp" />
+    <ClCompile Include="ConstantPatch.cpp">
+      <Filter>TMSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="Naked.cpp">
+      <Filter>TMSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="Hook.cpp">
+      <Filter>TMSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>TMSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>TMSRV</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

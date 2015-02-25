@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DBSRV">
+      <UniqueIdentifier>{ec4aa670-b0d9-4e93-be86-c2b2a20de912}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DBSRV.h">
+      <Filter>DBSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="dbpch.h">
+      <Filter>DBSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="HookPatch.h">
+      <Filter>DBSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstantPatch.h">
+      <Filter>DBSRV</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>DBSRV</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DBSRV.cpp">
+      <Filter>DBSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="dbpch.cpp">
+      <Filter>DBSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="DllMain.cpp" />
+    <ClCompile Include="HookPatch.cpp">
+      <Filter>DBSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstantPatch.cpp">
+      <Filter>DBSRV</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>DBSRV</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
